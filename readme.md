@@ -3,6 +3,8 @@
 ## Öğrenci Bilgileri
 
 İsim: Abdulkadir Kuvel
+
 Numara: B221210002
+
 Şube: 1C
 
