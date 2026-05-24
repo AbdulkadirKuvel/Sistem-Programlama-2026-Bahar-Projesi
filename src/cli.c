@@ -1,7 +1,5 @@
 #include <tarsau.h>
 
-/* 1. CLI PARSING & CONFIGURATION MODULE                                      */
-
 /**
  * @brief Komut satırı argümanlarını doğrular ve AppConfig yapısını doldurur.
  */
